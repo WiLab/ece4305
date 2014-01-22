@@ -10,3 +10,5 @@ Software Defined Radio
 Message Travis on IRC:
 
 irc.freenode.net #work4coffee @tcollins
+
+[IRC](http://mibbit.com/?channel=%23<work4coffee>&server=irc.freenode.net)
