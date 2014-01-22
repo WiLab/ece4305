@@ -9,6 +9,7 @@ Software Defined Radio
 
 Message Travis on IRC:
 
-irc.freenode.net #work4coffee @tcollins
+[irc.freenode.net #work4coffee @tcollins](http://webchat.freenode.net?randomnick=1&channels=%23work4coffee&prompt=1)
 
-[IRC](http://webchat.freenode.net?randomnick=1&channels=%23work4coffee&prompt=1)
+
+
