@@ -3,7 +3,7 @@ ece4305
 
 Software Defined Radio
 
-[Wiki](https://github.com/WiLab/ece4305/wiki) | [Bug Tracker](https://github.com/WiLab/ece4305/issues)
+[Wiki](https://github.com/WiLab/ece4305/wiki) | [Bug Tracker](https://github.com/WiLab/ece4305/issues) | [USRP Support Package](http://www.mathworks.com/hardware-support/usrp.html)
 
 Message Travis on IRC:
 
